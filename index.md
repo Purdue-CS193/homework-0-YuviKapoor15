@@ -1,4 +1,4 @@
-# Yuvi's first CS193 Homework
+# Yuvi's First CS193 Homework
 - Meet more people in computer science!
 - Class only meets once or twice per week!
 - The homework isn't time-consuming!
